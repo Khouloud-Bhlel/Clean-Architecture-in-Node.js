@@ -34,11 +34,7 @@ npm run dev
 npm run start
 ```
 
-### How to run it (using Docker)
-* Make sure you have [docker] installed. At the root folder run the following command:
-```sh
-docker-compose up -d
-```
+
 ### API documentation
 https://documenter.getpostman.com/view/1551953/TzCJgpnb
 
