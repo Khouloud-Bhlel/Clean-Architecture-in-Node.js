@@ -24,7 +24,6 @@ The outermost layer is generally composed of frameworks and tools such as the Da
 ```sh
 mongod --dbpath <path_to_data/db_folder>
 ```
-* Make sure [Redis] is also installed and running.<br /><br />
 * Run the server in development mode by typing the following command:
 ```sh
 npm run dev
